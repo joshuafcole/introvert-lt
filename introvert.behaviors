@@ -1,0 +1,4 @@
+{:+ {:app [(:lt.objs.plugins/load-js "introvert_compiled.js")
+           ;(:lt.objs.plugins/load-css "css/introvert.css")
+           ]
+     :introvert [:lt.plugins.introvert/on-close-destroy]}}
