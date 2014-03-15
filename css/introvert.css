@@ -1,0 +1,13 @@
+#introvert * {
+  box-sizing: border-box;
+  -webkit-user-select: text;
+}
+
+#introvert {
+  overflow-y: scroll;
+}
+
+#introvert ul li {
+  border: 1px solid black;
+  position: relative;
+}
