@@ -1,0 +1,9 @@
+{
+  "name": "Introvert",
+  "author": "Joshua Cole",
+  "version": "0.0.1",
+  "source": "",
+  "desc": "Understand and debug your clojurescript.",
+  "dependencies": {},
+  "behaviors": "introvert.behaviors"
+}
